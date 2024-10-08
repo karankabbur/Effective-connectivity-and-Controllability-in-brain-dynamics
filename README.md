@@ -1,6 +1,6 @@
 # Effective-connectivity-and-Controllability-in-brain-dynamics
 This repository consists of code for the paper "Controlling target brain regions by optimal selection of input
-nodes".
+nodes". https://doi.org/10.1371/journal.pcbi.1011274
 
 The folder "Data" contains all EC matrices used in the paper.
 
